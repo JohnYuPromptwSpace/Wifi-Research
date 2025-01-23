@@ -1,3 +1,5 @@
+Implementation of Wifi 7 MLO, MLO with loss
+
 To run this code, you need to download and build ns3 from github(https://github.com/nsnam/ns-3-dev-git)
 
 If you are testing on windows, you need to use virtual machines to run this project stably
